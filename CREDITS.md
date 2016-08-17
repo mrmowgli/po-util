@@ -2,6 +2,6 @@ Andre Lewis - [@mrmowgli](https://github.com/mrmowgli)
 
 Helping with cleaning up code and creating settings file.
 
-[@JacobyJunior](https://github.com/jacobyjunior) - [Youtube Channel](https://www.youtube.com/c/ijuniortvchannel)
+Geert Wille -[@GeertWille](https://github.com/GeertWille)
 
-Creating the po-util logo.
+P1 Support.

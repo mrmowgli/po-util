@@ -1,3 +1,7 @@
 temp
 temp0
 _site/*
+bin/*
+*.bin
+temp.sh
+temp.txt
